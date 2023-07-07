@@ -1,3 +1,5 @@
+//Java JDK8 [accepted]
+
 import java.util.Scanner;
 
 public class Watermelon {
